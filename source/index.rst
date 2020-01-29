@@ -6,11 +6,11 @@ Bem Vindo ao Validator
    :hidden:
    :glob:
 
-   1. Date <classes/date>
-   2. Cpf <classes/cpf>
-   3. Cnpj <classes/cnpj>
-   4. Rg <classes/rg>
-   5. CreditCard <classes/creditcard>
+   1. DATE <classes/date>
+   2. CPF <classes/cpf>
+   3. CNPJ <classes/cnpj>
+   4. RG <classes/rg>
+   5. CREDITCARD <classes/creditcard>
 
 .. image:: https://img.shields.io/packagist/v/cajudev/validator.svg
    :target: https://packagist.org/packages/cajudev/validator
